@@ -7,6 +7,12 @@ from bs4 import BeautifulSoup
 import re
 from nltk.tokenize import sent_tokenize
 
+import nltk
+
+# Download required tokenizer data (for sentence splitting)
+nltk.download('punkt')
+nltk.download('punkt_tab', quiet=True)
+
 # -------------------- Helper Functions --------------------
 
 def extract_title_and_body_from_html(html):
