@@ -1,11 +1,11 @@
-# 🧠 SEO Content Quality & Duplicate Detector
+#  SEO Content Quality & Duplicate Detector
 
 A complete machine learning pipeline that analyzes website content for **SEO quality scoring** and **duplicate content detection**.  
 This project parses HTML pages, extracts meaningful text, engineers NLP-based features, detects near-duplicates, and classifies overall content quality (Low / Medium / High).
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This assignment demonstrates an end-to-end data science workflow:
 - Parse and clean HTML content
@@ -16,7 +16,7 @@ This assignment demonstrates an end-to-end data science workflow:
 
 ---
 
-## 🧩 Directory Structure
+##  Directory Structure
 
 seo-content-detector/
 ├── data/
@@ -38,7 +38,7 @@ seo-content-detector/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 Clone the repo and install dependencies:
 
